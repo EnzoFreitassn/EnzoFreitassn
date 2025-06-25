@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Enzo de Freitas
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor front-end`**
 
 Me chamo Enzo de Freitas Souza Nogueira, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio na EEEP Osmira Eduarda de Castro, com o curso técnico em mecânica. Atualmente, estou cursando engenharia de software na UFC Russas.
 
