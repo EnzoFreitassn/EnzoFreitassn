@@ -99,3 +99,21 @@ Me chamo Enzo de Freitas Souza Nogueira, tenho 20 anos e sou natural do Ceará. 
 
 </p>
 
+### 🧠 Tecnologias
+
+**React**  
+████████████████████████████░░ 48%
+
+**JavaScript**  
+████████████████░░░░░░░░░░░░ 32%
+
+**HTML**  
+██████████░░░░░░░░░░░░░░░░░░ 10%
+
+**CSS**  
+████████░░░░░░░░░░░░░░░░░░░░ 8%
+
+**Outros**  
+██░░░░░░░░░░░░░░░░░░░░░░░░░░ 2%
+
+
